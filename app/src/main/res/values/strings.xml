@@ -2,4 +2,13 @@
     <string name="app_name">Viewpager2withTabLayout</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="phone">Номер телефона</string>
+    <string name="receive_code">Получить код</string>
+    <string name="no_account">Нет аккаунта?</string>
+    <string name="create_new">Зарегистрируйтесь</string>
+    <string name="email">Электронная почта</string>
+    <string name="password">Пароль</string>
+    <string name="forgot_password">Забыли пароль?</string>
+    <string name="log_in">Войти</string>
+
 </resources>
