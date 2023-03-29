@@ -17,7 +17,9 @@ class ContainerFragment : Fragment(R.layout.fragment_container) {
     private val animalsArray = arrayOf(
         "Cat",
         "Dog",
-        "Bird"
+        "Bird",
+        "Электронная почта",
+        "Номер телефона"
     )
 
     override fun onCreateView(
