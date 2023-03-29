@@ -10,5 +10,8 @@
     <string name="password">Пароль</string>
     <string name="forgot_password">Забыли пароль?</string>
     <string name="log_in">Войти</string>
+    <string name="receive_code_with_s">Получить код %02d</string>
+    <string name="receive_code_with_m_s">Получить код %02d:%02d</string>
+    <string name="receive_code_with_h_m_s">Получить код %02d:%02d:%02d</string>
 
 </resources>

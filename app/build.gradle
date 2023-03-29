@@ -49,4 +49,20 @@ dependencies {
 
     // Debug
     implementation 'com.jakewharton.timber:timber:5.0.1'
+
+    //Rx
+    implementation 'io.reactivex.rxjava2:rxjava:2.2.21'
+    implementation 'io.reactivex.rxjava2:rxandroid:2.1.1'
+
+    // Lifecycle
+    def lifecycle_version = "2.5.1"
+    implementation "androidx.lifecycle:lifecycle-common-java8:$lifecycle_version"
+    implementation "androidx.lifecycle:lifecycle-runtime-ktx:$lifecycle_version"
+    implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_version"
+    implementation "androidx.lifecycle:lifecycle-livedata-ktx:$lifecycle_version"
+    implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
+
+    // Coroutines
+    def coroutineVersion = '1.6.4'
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:$coroutineVersion"
 }
